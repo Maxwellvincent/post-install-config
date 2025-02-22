@@ -22,34 +22,33 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Set up roles, departments, and teams to define agent responsibilities.
+- Configure user settings to control ticket creation permissions.
+- Add and manage agents and users to handle and submit tickets.
+- Define Service Level Agreements (SLAs) for ticket prioritization.
+- Establish help topics to categorize user ticket submissions.
+
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After installing osTicket, the system must be configured for proper functionality. This includes distinguishing between the Agent Panel (for ticket handlers) and the Admin Panel (for system management). Roles are created to group agent permissions, and departments are set up to manage ticket visibility (e.g., SysAdmins vs. Networking). Teams allow cross-departmental collaboration. User registration requirements are configured, ensuring that only registered users can create tickets. Agents (help desk staff) and Users (customers) are added to the system with their respective access levels. SLAs are defined to set ticket response times based on severity, and help topics are established to streamline ticket categorization, covering issues like password resets, equipment requests, and business-critical outages.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/FttYGWn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
