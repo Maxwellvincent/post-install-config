@@ -41,10 +41,13 @@ After installing osTicket, the system must be configured for proper functionalit
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F6eFEJP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D73aQ1i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Created different levels of SLA 
 </p>
 <br />
 
